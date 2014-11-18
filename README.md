@@ -6,8 +6,9 @@ Scanning Laser Image Correlation (SLIC) analysis
 This software perfroms 
 SLIC analysis as described in:
 
-"Scanning laser image correlation for measurement of flow" MJ Rossow, WW 
-Mantulin, E Gratton, Journal of biomedical optics. 15 (2), 026003-026003-8
+Rossow, Molly J, William W Mantulin, and Enrico Gratton. 2010. “Scanning 
+Laser Image Correlation for Measurement of Flow.” J Biomed Opt 15 (2) 
+(March): 026003-026003-8.
 
 SLIC can be used to analyze the fluid velocity of particles traveling 
 through microfluidic channels. 
