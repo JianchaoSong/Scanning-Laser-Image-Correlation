@@ -17,7 +17,7 @@ index = 1;
 % For each pixel shift, calculate the correlation.
 for i = 1:length(allPixShift)
     p = allPixShift(i);
-    [averageG,~] = n_pixel_shifted_new(data,p);
+    [averageG,~] = n_pixel_shifted_corr(data,p);
     allAverageG(:,index) = averageG;
     index = index +1;
 end
